@@ -1,0 +1,39 @@
+TransactionID: 7
+ItemID: 1
+UserID: 5
+QuantitySold: 7
+TotalPrice: 489993.00
+SaleDate: 2026-01-28
+CustomerName: yasir
+CustomerEmail: y.9009.osman@gmail.com
+CustomerPhone: 9052546255
+CreatedAt: 2026-01-28 10:10:52
+UpdatedAt: 2026-01-28 10:10:52
+
+--------------------
+TransactionID: 8
+ItemID: 3
+UserID: 1
+QuantitySold: 4
+TotalPrice: 159996.00
+SaleDate: 2026-01-28
+CustomerName: Elobid
+CustomerEmail: elobid@gmail.com
+CustomerPhone: 9052546254
+CreatedAt: 2026-01-28 14:35:54
+UpdatedAt: 2026-01-28 14:35:54
+
+--------------------
+TransactionID: 9
+ItemID: 5
+UserID: 1
+QuantitySold: 20
+TotalPrice: 1199980.00
+SaleDate: 2026-01-28
+CustomerName: ezoo
+CustomerEmail: ezo@gmail.com
+CustomerPhone: 9052546256
+CreatedAt: 2026-01-28 14:39:32
+UpdatedAt: 2026-01-28 14:39:32
+
+--------------------

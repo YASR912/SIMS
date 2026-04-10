@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ["php82", "php82Extensions.pdo", "php82Extensions.pdo_mysql", "php82Extensions.mysqli", "python311", "python311Packages.pip", "apacheHttpd"]
+
+[phases.install]
+cmds = ["pip install pandas scikit-learn matplotlib numpy"]
+
+[start]
+cmd = "apache2ctl -D FOREGROUND"

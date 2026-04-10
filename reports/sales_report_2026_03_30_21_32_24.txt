@@ -1,0 +1,78 @@
+TransactionID: 27
+ItemID: 2
+UserID: 6
+QuantitySold: 35
+TotalPrice: 11200.00
+SaleDate: 2026-03-31
+CustomerName: mohmmed
+CustomerEmail: moh@gmail.com
+CustomerPhone: 8639973675
+CreatedAt: 2026-03-31 00:32:35
+UpdatedAt: 2026-03-31 00:32:35
+
+--------------------
+TransactionID: 28
+ItemID: 8
+UserID: 6
+QuantitySold: 55
+TotalPrice: 1375.00
+SaleDate: 2026-03-31
+CustomerName: samir
+CustomerEmail: samir@gmail.com
+CustomerPhone: 8639973692
+CreatedAt: 2026-03-31 00:32:59
+UpdatedAt: 2026-03-31 00:32:59
+
+--------------------
+TransactionID: 29
+ItemID: 5
+UserID: 6
+QuantitySold: 90
+TotalPrice: 1800.00
+SaleDate: 2026-03-31
+CustomerName: ali
+CustomerEmail: ali@gmail.com
+CustomerPhone: 9052546255
+CreatedAt: 2026-03-31 00:33:16
+UpdatedAt: 2026-03-31 00:33:16
+
+--------------------
+TransactionID: 30
+ItemID: 58
+UserID: 6
+QuantitySold: 70
+TotalPrice: 2450.00
+SaleDate: 2026-03-31
+CustomerName: yasir
+CustomerEmail: y.9009.osman@gmail.com
+CustomerPhone: 9052546256
+CreatedAt: 2026-03-31 00:33:45
+UpdatedAt: 2026-03-31 00:33:45
+
+--------------------
+TransactionID: 31
+ItemID: 14
+UserID: 6
+QuantitySold: 90
+TotalPrice: 2250.00
+SaleDate: 2026-03-31
+CustomerName: yasir
+CustomerEmail: y.9009.osman@gmail.com
+CustomerPhone: 8639973692
+CreatedAt: 2026-03-31 00:35:52
+UpdatedAt: 2026-03-31 00:35:52
+
+--------------------
+TransactionID: 32
+ItemID: 25
+UserID: 6
+QuantitySold: 90
+TotalPrice: 1800.00
+SaleDate: 2026-03-31
+CustomerName: Elobid
+CustomerEmail: elobid@gmail.com
+CustomerPhone: 9052546255
+CreatedAt: 2026-03-31 00:36:18
+UpdatedAt: 2026-03-31 00:36:18
+
+--------------------

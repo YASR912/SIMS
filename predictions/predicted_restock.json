@@ -1,0 +1,650 @@
+[
+    {
+        "ItemID": 1,
+        "ItemName": "Aashirvaad Atta 5kg",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 40
+    },
+    {
+        "ItemID": 1,
+        "ItemName": "Aashirvaad Atta 5kg",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 40
+    },
+    {
+        "ItemID": 1,
+        "ItemName": "Aashirvaad Atta 5kg",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 40
+    },
+    {
+        "ItemID": 1,
+        "ItemName": "Aashirvaad Atta 5kg",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 40
+    },
+    {
+        "ItemID": 1,
+        "ItemName": "Aashirvaad Atta 5kg",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 40
+    },
+    {
+        "ItemID": 1,
+        "ItemName": "Aashirvaad Atta 5kg",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 40
+    },
+    {
+        "ItemID": 3,
+        "ItemName": "Sunfeast Marie Light 100g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 98
+    },
+    {
+        "ItemID": 3,
+        "ItemName": "Sunfeast Marie Light 100g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 107
+    },
+    {
+        "ItemID": 3,
+        "ItemName": "Sunfeast Marie Light 100g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 116
+    },
+    {
+        "ItemID": 3,
+        "ItemName": "Sunfeast Marie Light 100g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 125
+    },
+    {
+        "ItemID": 3,
+        "ItemName": "Sunfeast Marie Light 100g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 134
+    },
+    {
+        "ItemID": 3,
+        "ItemName": "Sunfeast Marie Light 100g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 143
+    },
+    {
+        "ItemID": 34,
+        "ItemName": "Parle-G Gold 200g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 100
+    },
+    {
+        "ItemID": 34,
+        "ItemName": "Parle-G Gold 200g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 100
+    },
+    {
+        "ItemID": 34,
+        "ItemName": "Parle-G Gold 200g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 100
+    },
+    {
+        "ItemID": 34,
+        "ItemName": "Parle-G Gold 200g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 100
+    },
+    {
+        "ItemID": 34,
+        "ItemName": "Parle-G Gold 200g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 100
+    },
+    {
+        "ItemID": 34,
+        "ItemName": "Parle-G Gold 200g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 100
+    },
+    {
+        "ItemID": 20,
+        "ItemName": "Maggi Noodles 70g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 100
+    },
+    {
+        "ItemID": 20,
+        "ItemName": "Maggi Noodles 70g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 100
+    },
+    {
+        "ItemID": 20,
+        "ItemName": "Maggi Noodles 70g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 100
+    },
+    {
+        "ItemID": 20,
+        "ItemName": "Maggi Noodles 70g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 100
+    },
+    {
+        "ItemID": 20,
+        "ItemName": "Maggi Noodles 70g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 100
+    },
+    {
+        "ItemID": 20,
+        "ItemName": "Maggi Noodles 70g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 100
+    },
+    {
+        "ItemID": 6,
+        "ItemName": "Bingo Original Style 30g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 6,
+        "ItemName": "Bingo Original Style 30g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 6,
+        "ItemName": "Bingo Original Style 30g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 6,
+        "ItemName": "Bingo Original Style 30g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 6,
+        "ItemName": "Bingo Original Style 30g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 6,
+        "ItemName": "Bingo Original Style 30g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 46,
+        "ItemName": "Kurkure Masala Munch 50g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 46,
+        "ItemName": "Kurkure Masala Munch 50g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 46,
+        "ItemName": "Kurkure Masala Munch 50g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 46,
+        "ItemName": "Kurkure Masala Munch 50g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 46,
+        "ItemName": "Kurkure Masala Munch 50g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 46,
+        "ItemName": "Kurkure Masala Munch 50g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 2,
+        "ItemName": "Aashirvaad Rice 5kg",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 35
+    },
+    {
+        "ItemID": 2,
+        "ItemName": "Aashirvaad Rice 5kg",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 35
+    },
+    {
+        "ItemID": 2,
+        "ItemName": "Aashirvaad Rice 5kg",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 35
+    },
+    {
+        "ItemID": 2,
+        "ItemName": "Aashirvaad Rice 5kg",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 35
+    },
+    {
+        "ItemID": 2,
+        "ItemName": "Aashirvaad Rice 5kg",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 35
+    },
+    {
+        "ItemID": 2,
+        "ItemName": "Aashirvaad Rice 5kg",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 35
+    },
+    {
+        "ItemID": 8,
+        "ItemName": "Vim Dishwash Bar 200g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 55
+    },
+    {
+        "ItemID": 8,
+        "ItemName": "Vim Dishwash Bar 200g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 55
+    },
+    {
+        "ItemID": 8,
+        "ItemName": "Vim Dishwash Bar 200g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 55
+    },
+    {
+        "ItemID": 8,
+        "ItemName": "Vim Dishwash Bar 200g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 55
+    },
+    {
+        "ItemID": 8,
+        "ItemName": "Vim Dishwash Bar 200g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 55
+    },
+    {
+        "ItemID": 8,
+        "ItemName": "Vim Dishwash Bar 200g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 55
+    },
+    {
+        "ItemID": 5,
+        "ItemName": "Bingo Mad Angles 50g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 5,
+        "ItemName": "Bingo Mad Angles 50g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 5,
+        "ItemName": "Bingo Mad Angles 50g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 5,
+        "ItemName": "Bingo Mad Angles 50g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 5,
+        "ItemName": "Bingo Mad Angles 50g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 5,
+        "ItemName": "Bingo Mad Angles 50g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 58,
+        "ItemName": "MDH Turmeric Powder 100g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 70
+    },
+    {
+        "ItemID": 58,
+        "ItemName": "MDH Turmeric Powder 100g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 70
+    },
+    {
+        "ItemID": 58,
+        "ItemName": "MDH Turmeric Powder 100g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 70
+    },
+    {
+        "ItemID": 58,
+        "ItemName": "MDH Turmeric Powder 100g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 70
+    },
+    {
+        "ItemID": 58,
+        "ItemName": "MDH Turmeric Powder 100g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 70
+    },
+    {
+        "ItemID": 58,
+        "ItemName": "MDH Turmeric Powder 100g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 70
+    },
+    {
+        "ItemID": 14,
+        "ItemName": "Britannia Good Day 100g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 14,
+        "ItemName": "Britannia Good Day 100g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 14,
+        "ItemName": "Britannia Good Day 100g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 14,
+        "ItemName": "Britannia Good Day 100g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 14,
+        "ItemName": "Britannia Good Day 100g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 14,
+        "ItemName": "Britannia Good Day 100g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 25,
+        "ItemName": "Munch Chocolate 30g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 25,
+        "ItemName": "Munch Chocolate 30g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 25,
+        "ItemName": "Munch Chocolate 30g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 25,
+        "ItemName": "Munch Chocolate 30g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 25,
+        "ItemName": "Munch Chocolate 30g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 25,
+        "ItemName": "Munch Chocolate 30g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 90
+    },
+    {
+        "ItemID": 12,
+        "ItemName": "Pepsodent Toothpaste 150g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 40
+    },
+    {
+        "ItemID": 12,
+        "ItemName": "Pepsodent Toothpaste 150g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 40
+    },
+    {
+        "ItemID": 12,
+        "ItemName": "Pepsodent Toothpaste 150g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 40
+    },
+    {
+        "ItemID": 12,
+        "ItemName": "Pepsodent Toothpaste 150g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 40
+    },
+    {
+        "ItemID": 12,
+        "ItemName": "Pepsodent Toothpaste 150g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 40
+    },
+    {
+        "ItemID": 12,
+        "ItemName": "Pepsodent Toothpaste 150g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 40
+    },
+    {
+        "ItemID": 39,
+        "ItemName": "Haldirams Mixture 200g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 55
+    },
+    {
+        "ItemID": 39,
+        "ItemName": "Haldirams Mixture 200g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 55
+    },
+    {
+        "ItemID": 39,
+        "ItemName": "Haldirams Mixture 200g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 55
+    },
+    {
+        "ItemID": 39,
+        "ItemName": "Haldirams Mixture 200g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 55
+    },
+    {
+        "ItemID": 39,
+        "ItemName": "Haldirams Mixture 200g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 55
+    },
+    {
+        "ItemID": 39,
+        "ItemName": "Haldirams Mixture 200g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 55
+    },
+    {
+        "ItemID": 63,
+        "ItemName": "MDH Sambar Masala 100g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 35
+    },
+    {
+        "ItemID": 63,
+        "ItemName": "MDH Sambar Masala 100g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 35
+    },
+    {
+        "ItemID": 63,
+        "ItemName": "MDH Sambar Masala 100g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 35
+    },
+    {
+        "ItemID": 63,
+        "ItemName": "MDH Sambar Masala 100g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 35
+    },
+    {
+        "ItemID": 63,
+        "ItemName": "MDH Sambar Masala 100g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 35
+    },
+    {
+        "ItemID": 63,
+        "ItemName": "MDH Sambar Masala 100g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 35
+    },
+    {
+        "ItemID": 55,
+        "ItemName": "Mineral Water Kinley 1L",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 142
+    },
+    {
+        "ItemID": 55,
+        "ItemName": "Mineral Water Kinley 1L",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 142
+    },
+    {
+        "ItemID": 55,
+        "ItemName": "Mineral Water Kinley 1L",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 142
+    },
+    {
+        "ItemID": 55,
+        "ItemName": "Mineral Water Kinley 1L",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 142
+    },
+    {
+        "ItemID": 55,
+        "ItemName": "Mineral Water Kinley 1L",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 142
+    },
+    {
+        "ItemID": 55,
+        "ItemName": "Mineral Water Kinley 1L",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 142
+    },
+    {
+        "ItemID": 15,
+        "ItemName": "Britannia Bourbon 100g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 15,
+        "ItemName": "Britannia Bourbon 100g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 15,
+        "ItemName": "Britannia Bourbon 100g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 15,
+        "ItemName": "Britannia Bourbon 100g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 15,
+        "ItemName": "Britannia Bourbon 100g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 15,
+        "ItemName": "Britannia Bourbon 100g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 80
+    },
+    {
+        "ItemID": 9,
+        "ItemName": "Lifebuoy Soap 75g",
+        "PredictedRestockDate": "2026-05-01",
+        "PredictedQuantity": 70
+    },
+    {
+        "ItemID": 9,
+        "ItemName": "Lifebuoy Soap 75g",
+        "PredictedRestockDate": "2026-06-01",
+        "PredictedQuantity": 70
+    },
+    {
+        "ItemID": 9,
+        "ItemName": "Lifebuoy Soap 75g",
+        "PredictedRestockDate": "2026-07-01",
+        "PredictedQuantity": 70
+    },
+    {
+        "ItemID": 9,
+        "ItemName": "Lifebuoy Soap 75g",
+        "PredictedRestockDate": "2026-08-01",
+        "PredictedQuantity": 70
+    },
+    {
+        "ItemID": 9,
+        "ItemName": "Lifebuoy Soap 75g",
+        "PredictedRestockDate": "2026-09-01",
+        "PredictedQuantity": 70
+    },
+    {
+        "ItemID": 9,
+        "ItemName": "Lifebuoy Soap 75g",
+        "PredictedRestockDate": "2026-10-01",
+        "PredictedQuantity": 70
+    }
+]

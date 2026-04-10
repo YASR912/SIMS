@@ -1,0 +1,91 @@
+TransactionID: 20
+ItemID: 1
+UserID: 1
+QuantitySold: 40
+TotalPrice: 11200.00
+SaleDate: 2026-03-25
+CustomerName: ezoo
+CustomerEmail: ezo@gmail.com
+CustomerPhone: 9052546255
+CreatedAt: 2026-03-25 18:25:25
+UpdatedAt: 2026-03-25 18:25:25
+
+--------------------
+TransactionID: 21
+ItemID: 3
+UserID: 1
+QuantitySold: 80
+TotalPrice: 1600.00
+SaleDate: 2026-03-25
+CustomerName: samir
+CustomerEmail: samir@gmail.com
+CustomerPhone: 8639973692
+CreatedAt: 2026-03-25 18:25:46
+UpdatedAt: 2026-03-25 18:25:46
+
+--------------------
+TransactionID: 22
+ItemID: 34
+UserID: 1
+QuantitySold: 100
+TotalPrice: 2000.00
+SaleDate: 2026-03-25
+CustomerName: yasir
+CustomerEmail: y.osman@gmail.com
+CustomerPhone: 9052546259
+CreatedAt: 2026-03-25 18:26:25
+UpdatedAt: 2026-03-25 18:26:25
+
+--------------------
+TransactionID: 23
+ItemID: 20
+UserID: 6
+QuantitySold: 100
+TotalPrice: 1400.00
+SaleDate: 2026-03-26
+CustomerName: Elobid
+CustomerEmail: elobid@gmail.com
+CustomerPhone: 9052546259
+CreatedAt: 2026-03-26 03:34:07
+UpdatedAt: 2026-03-26 03:34:07
+
+--------------------
+TransactionID: 24
+ItemID: 6
+UserID: 1
+QuantitySold: 80
+TotalPrice: 800.00
+SaleDate: 2026-03-26
+CustomerName: yaohan
+CustomerEmail: yaohan@gmail.com
+CustomerPhone: 9052546259
+CreatedAt: 2026-03-26 04:02:41
+UpdatedAt: 2026-03-26 04:02:41
+
+--------------------
+TransactionID: 25
+ItemID: 46
+UserID: 1
+QuantitySold: 80
+TotalPrice: 1600.00
+SaleDate: 2026-03-26
+CustomerName: osman
+CustomerEmail: osman@gmail.com
+CustomerPhone: 8639973695
+CreatedAt: 2026-03-26 04:03:59
+UpdatedAt: 2026-03-26 04:03:59
+
+--------------------
+TransactionID: 26
+ItemID: 18
+UserID: 1
+QuantitySold: 41
+TotalPrice: 1435.00
+SaleDate: 2026-03-26
+CustomerName: walled
+CustomerEmail: walled@gmail.com
+CustomerPhone: 9052546251
+CreatedAt: 2026-03-26 04:05:26
+UpdatedAt: 2026-03-26 04:05:26
+
+--------------------

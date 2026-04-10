@@ -1,0 +1,104 @@
+TransactionID: 7
+ItemID: 1
+UserID: 5
+QuantitySold: 7
+TotalPrice: 489993.00
+SaleDate: 2026-01-28
+CustomerName: yasir
+CustomerEmail: y.9009.osman@gmail.com
+CustomerPhone: 9052546255
+CreatedAt: 2026-01-28 10:10:52
+UpdatedAt: 2026-01-28 10:10:52
+
+--------------------
+TransactionID: 8
+ItemID: 3
+UserID: 1
+QuantitySold: 4
+TotalPrice: 159996.00
+SaleDate: 2026-01-28
+CustomerName: Elobid
+CustomerEmail: elobid@gmail.com
+CustomerPhone: 9052546254
+CreatedAt: 2026-01-28 14:35:54
+UpdatedAt: 2026-01-28 14:35:54
+
+--------------------
+TransactionID: 9
+ItemID: 5
+UserID: 1
+QuantitySold: 20
+TotalPrice: 1199980.00
+SaleDate: 2026-01-28
+CustomerName: ezoo
+CustomerEmail: ezo@gmail.com
+CustomerPhone: 9052546256
+CreatedAt: 2026-01-28 14:39:32
+UpdatedAt: 2026-01-28 14:39:32
+
+--------------------
+TransactionID: 10
+ItemID: 3
+UserID: 6
+QuantitySold: 6
+TotalPrice: 239994.00
+SaleDate: 2026-01-28
+CustomerName: ali
+CustomerEmail: ali@gmail.com
+CustomerPhone: 9052546259
+CreatedAt: 2026-01-28 17:05:47
+UpdatedAt: 2026-01-28 17:05:47
+
+--------------------
+TransactionID: 11
+ItemID: 1
+UserID: 6
+QuantitySold: 23
+TotalPrice: 1609977.00
+SaleDate: 2026-01-28
+CustomerName: yasir
+CustomerEmail: y.9009.osman@gmail.com
+CustomerPhone: 9052546251
+CreatedAt: 2026-01-28 17:18:10
+UpdatedAt: 2026-01-28 17:18:10
+
+--------------------
+TransactionID: 12
+ItemID: 2
+UserID: 6
+QuantitySold: 15
+TotalPrice: 2249985.00
+SaleDate: 2026-01-28
+CustomerName: yasir
+CustomerEmail: y.9009.osman@gmail.com
+CustomerPhone: 9052546251
+CreatedAt: 2026-01-28 17:18:46
+UpdatedAt: 2026-01-28 17:18:46
+
+--------------------
+TransactionID: 13
+ItemID: 5
+UserID: 6
+QuantitySold: 30
+TotalPrice: 1799970.00
+SaleDate: 2026-01-28
+CustomerName: yasir
+CustomerEmail: y.9009.osman@gmail.com
+CustomerPhone: 9052546251
+CreatedAt: 2026-01-28 17:19:08
+UpdatedAt: 2026-01-28 17:19:08
+
+--------------------
+TransactionID: 14
+ItemID: 4
+UserID: 6
+QuantitySold: 25
+TotalPrice: 74975.00
+SaleDate: 2026-01-28
+CustomerName: yasir
+CustomerEmail: y.9009.osman@gmail.com
+CustomerPhone: 9052546251
+CreatedAt: 2026-01-28 17:19:25
+UpdatedAt: 2026-01-28 17:19:25
+
+--------------------

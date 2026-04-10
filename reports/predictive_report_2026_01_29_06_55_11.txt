@@ -1,0 +1,48 @@
+PredictionID: 1
+ItemID: 1
+PredictedRestockDate: 2026-02-01
+PredictedQuantity: 6
+CreatedAt: 2026-01-28 11:36:16
+UpdatedAt: 2026-01-28 11:36:16
+
+--------------------
+PredictionID: 2
+ItemID: 1
+PredictedRestockDate: 2026-03-01
+PredictedQuantity: 6
+CreatedAt: 2026-01-28 11:36:16
+UpdatedAt: 2026-01-28 11:36:16
+
+--------------------
+PredictionID: 3
+ItemID: 1
+PredictedRestockDate: 2026-04-01
+PredictedQuantity: 6
+CreatedAt: 2026-01-28 11:36:16
+UpdatedAt: 2026-01-28 11:36:16
+
+--------------------
+PredictionID: 4
+ItemID: 1
+PredictedRestockDate: 2026-05-01
+PredictedQuantity: 6
+CreatedAt: 2026-01-28 11:36:16
+UpdatedAt: 2026-01-28 11:36:16
+
+--------------------
+PredictionID: 5
+ItemID: 1
+PredictedRestockDate: 2026-06-01
+PredictedQuantity: 6
+CreatedAt: 2026-01-28 11:36:16
+UpdatedAt: 2026-01-28 11:36:16
+
+--------------------
+PredictionID: 6
+ItemID: 1
+PredictedRestockDate: 2026-07-01
+PredictedQuantity: 5
+CreatedAt: 2026-01-28 11:36:16
+UpdatedAt: 2026-01-28 11:36:16
+
+--------------------
