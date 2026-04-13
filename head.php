@@ -22,6 +22,7 @@ if (mysqli_connect_errno()) {
 <link rel="stylesheet" href="assets/vendors/font-awesome/css/font-awesome.min.css" />
 <link rel="stylesheet" href="assets/vendors/bootstrap-datepicker/bootstrap-datepicker.min.css" />
 <link rel="stylesheet" href="assets/css/style.css" />
+<link rel="stylesheet" href="assets/css/responsive.css" />
 <link rel="shortcut icon" href="assets/images/smart-inventory.png" />
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 
