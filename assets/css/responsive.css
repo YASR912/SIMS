@@ -1,1 +1,60 @@
+/* ===== SIMS RESPONSIVE CSS ===== */
 
+/* ── Tablet (max 768px) ── */
+@media (max-width: 768px) {
+
+    .sidebar {
+        display: none !important;
+    }
+
+    .main-panel,
+    .content-wrapper {
+        width: 100% !important;
+        padding: 10px !important;
+        margin-left: 0 !important;
+    }
+
+    .table-responsive {
+        overflow-x: auto;
+    }
+
+    .card {
+        margin-bottom: 15px;
+    }
+
+    .btn {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    .form-control,
+    .form-select {
+        width: 100% !important;
+    }
+}
+
+/* ── Mobile (max 480px) ── */
+@media (max-width: 480px) {
+
+    .page-title {
+        font-size: 1.2rem !important;
+    }
+
+    .card-body {
+        padding: 1rem !important;
+    }
+
+    .table thead th,
+    .table tbody td {
+        font-size: 0.78rem;
+        padding: 8px !important;
+    }
+
+    .navbar {
+        padding: 8px !important;
+    }
+
+    .navbar-brand img {
+        height: 30px;
+    }
+}
